@@ -1,7 +1,7 @@
 name: KOMTUS
 favicon: null
 layout_spectrum: 0.25382
-typography_spectrum: 0.4966
+typography_spectrum: 0.74278
 title: Navigating Industrial Internet of Things
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6955807814374566
   lightness: 0.32818087097257376
   saturation: 0.8585440393071622
-  rhythmicContrast: 0.11556224804371595
+  rhythmicContrast: 0
 purpose: []
